@@ -139,4 +139,4 @@ If you want it to run **fully unattended** (e.g. on GitHub Actions, where there'
 
 ## 📄 License
 
-Add a license of your choice (MIT is a common pick for personal projects like this) — see [choosealicense.com](https://choosealicense.com/).
+This project is licensed under the [MIT License](LICENSE).
